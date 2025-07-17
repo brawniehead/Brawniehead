@@ -58,7 +58,7 @@ Software Development Engineer | Full-Stack Developer | AI Enthusiast
 ### 🚀 Projects I’m Proud Of
 - 🎓 **AI Learning Platform** – Built REST APIs and integrated CI/CD pipelines  
 - 🧪 **Skyscanner Test Automation** – Developed UI & API automation using Playwright  
-- 💡 **Face Recognition App (with SHAP explainability)** – Boosted model accuracy from 88% to 92% using Explainable AI
+- 💡 **Improving Deep Learning using xAI (with SHAP explainability)** – Boosted model accuracy from 88% to 92% using Explainable AI
 
 ---
 
