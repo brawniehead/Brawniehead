@@ -14,7 +14,7 @@ Software Development Engineer | Full-Stack Developer | AI Enthusiast
 - 🤖 Exploring the intersection of AI/ML + Web Development 
 - 🎯 Always open to collaborate on impactful projects  
 - 🛠️ Backend + Frontend + Testing Automation  
-- 📫 Reach me: [Instagram](https://instagram.com/brawniehead_) | [Email](mailto:annarajan98@gmail.com)
+- 📫 Reach me: [Instagram](https://instagram.com/brawniehead) | [Email](mailto:annarajan98@gmail.com)
 
 
 
