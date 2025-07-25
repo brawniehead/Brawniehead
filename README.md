@@ -72,7 +72,7 @@ Software Development Engineer | Full-Stack Developer | AI Enthusiast
 ---
 
 ### 🙌 Let’s Connect!
-📸 [Instagram](https://instagram.com/me_athul._)  
-✉️ [Email](mailto:your-email@example.com)  
+📸 [Instagram](https://instagram.com/brawniehead)  
+✉️ [Email](mailto:rajanramy89@gmail.com)  
 🌍 Based in India | Open to remote and hybrid roles
 
